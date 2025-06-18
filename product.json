@@ -4,6 +4,7 @@
 	"applicationName": "code-oss",
 	"dataFolderName": ".vscode-oss",
 	"win32MutexName": "vscodeoss",
+	"builtInExtensionsDir": "build",
 	"licenseName": "MIT",
 	"licenseUrl": "https://github.com/microsoft/vscode/blob/main/LICENSE.txt",
 	"serverLicenseUrl": "https://github.com/microsoft/vscode/blob/main/LICENSE.txt",
@@ -81,6 +82,13 @@
 				},
 				"publisherDisplayName": "Microsoft"
 			}
-		}
+		},
+{
+  "name": "wingman-ai",
+  "version": "1.5.3",
+  "vsix": "extensions/wingman-ai/wing-man-1.5.3.vsix"
+}
+
+
 	]
 }
